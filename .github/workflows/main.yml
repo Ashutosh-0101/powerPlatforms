@@ -116,7 +116,7 @@ jobs:
 
         app-id: ${{env.CLIENT_ID}}
 
-        client-secret: ${{ secrets.PowerPlatformSPN }}
+        client-secret: ${{ secrets.powerPlatforms }}
 
         tenant-id: ${{env.TENANT_ID}}
 
